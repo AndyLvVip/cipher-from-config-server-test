@@ -1,0 +1,4 @@
+rootProject.name = 'cipher-from-config-server-test'
+include 'config-server'
+include 'cipher-test'
+

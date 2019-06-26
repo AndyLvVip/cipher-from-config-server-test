@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: dev-db-user
+    # dev-db-password
+    password: "{cipher}745a42ee20c7318e9da29eb8576bfdddce6ca7627848fbccf1fac02c773c9f63"

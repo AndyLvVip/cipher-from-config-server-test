@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: dev-andy-db-user
+    # dev-andy-db-password
+    password: "{cipher}1ad0256cccc28c469a8c7f3e2311ec7bc27b349367c64008a23e41b7e5763e049a8a47c2ceaf895fec6f705de4d29d7f"

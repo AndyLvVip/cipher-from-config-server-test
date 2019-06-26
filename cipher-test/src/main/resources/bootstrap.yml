@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cipher-test
+  profiles:
+    active: dev,dev-andy
+encrypt:
+  key: thisisandysecret
